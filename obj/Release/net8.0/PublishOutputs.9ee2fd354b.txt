@@ -1,0 +1,12 @@
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/technichalAPI
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/appsettings.json
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/technichalAPI.dll
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/technichalAPI.deps.json
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/technichalAPI.runtimeconfig.json
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/technichalAPI.pdb
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/luisvr/Desktop/imSoftware/technichalAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
